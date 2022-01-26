@@ -16,9 +16,11 @@
     - VSCode
     - Node.js
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://evening-beyond-80457.herokuapp.com/v1/greetings)
+
+ Keep in mind that only the only available route in the application is the API endpoint /v1/greetings.
 
 
 ## Getting Started
@@ -45,13 +47,11 @@ To get a local copy up and running follow these simple example steps.
 ### Usage
 
     - Run ```rails c``` to launch the irb console and speak directly to Rails
-    - Run ```rails s``` to launch the application on your browser. Default port is localhost:3000
-    - The endpoint /v1/greetings is designed to return a json file containing all available greetings on an array.
-
-### Run tests
-
+ 
 ### Deployment
 
+   - Run ```rails s``` to launch the application on your browser. Default port is localhost:3000
+    - The endpoint /v1/greetings is designed to return a json file containing all available greetings on an array.
 
 
 ## Author
