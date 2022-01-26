@@ -1,0 +1,5 @@
+Greeting.create(message: 'Hello!')
+Greeting.create(message: 'Gutten Tag!')
+Greeting.create(message: 'Konnichiwa!')
+Greeting.create(message: 'Hola!')
+Greeting.create(message: 'Aloha!')
