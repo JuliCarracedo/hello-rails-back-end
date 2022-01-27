@@ -4,6 +4,9 @@
 
 > This is the backend application for a project that consists in connecting a front-end React app and a back-end Rails API
 
+## Link to Front-End Live Demo: https://unruffled-goodall-07e28c.netlify.app/
+
+## Link to Front-End Repository: https://github.com/JuliCarracedo/hello-react-front-end
 
 ## Built With
 
